@@ -1,0 +1,43 @@
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\bin\Debug\Teacher Tooklit Hub.exe.config
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\bin\Debug\Teacher Tooklit Hub.exe
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\bin\Debug\Teacher Tooklit Hub.pdb
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.AssemblyReference.cache
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.SuggestedBindingRedirects.cache
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Properties.Resources.resources
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.GenerateResource.cache
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.CoreCompileInputs.cache
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.exe
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.pdb
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Entrance.resources
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Hub.resources
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.DiceRoller.resources
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.RewardSystem.resources
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.StudentPicker.resources
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Timer.resources
+C:\Teacher Toolkit\Teacher Tooklit Hub\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Timer2.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csprojAssemblyReference.cache
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.DiceRoller.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Entrance.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Hub.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Properties.Resources.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.RewardSystem.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.StudentPicker.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Timer.resources
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.GenerateResource.cache
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.CoreCompileInputs.cache
+\\sutcfps2.sutc.internal\studentpersonal$\18hoylej\Desktop\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.pdb
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\bin\Debug\Teacher Tooklit Hub.exe.config
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\bin\Debug\Teacher Tooklit Hub.exe
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\bin\Debug\Teacher Tooklit Hub.pdb
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csprojAssemblyReference.cache
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.DiceRoller.resources
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Entrance.resources
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Hub.resources
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Properties.Resources.resources
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.RewardSystem.resources
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.StudentPicker.resources
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher_Tooklit_Hub.Timer.resources
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.GenerateResource.cache
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.csproj.CoreCompileInputs.cache
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.exe
+G:\Jensen Hoyle Teacher Toolkit\Teacher Tooklit Hub\obj\Debug\Teacher Tooklit Hub.pdb
